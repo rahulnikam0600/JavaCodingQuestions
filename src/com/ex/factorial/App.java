@@ -1,5 +1,7 @@
 package com.ex.factorial;
-
+/*
+ * Find the Factorial of the number using for loop
+ */
 public class App {
 	public static void main(String[] args) {
 		int n = 7;
