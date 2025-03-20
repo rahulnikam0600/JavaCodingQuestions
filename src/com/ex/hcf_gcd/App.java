@@ -1,5 +1,7 @@
 package com.ex.hcf_gcd;
 
+//GCD(a,b) = GCD(b, a mod b)
+
 public class App {
 
 	public static void main(String[] args) {
