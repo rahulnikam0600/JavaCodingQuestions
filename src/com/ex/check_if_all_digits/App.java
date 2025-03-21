@@ -1,5 +1,7 @@
 package com.ex.check_if_all_digits;
 
+//Check if String Contains Only Digits
+
 public class App {
 
 	public static void main(String[] args) {
