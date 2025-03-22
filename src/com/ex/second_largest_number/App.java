@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class App {
 
 	public static void main(String[] args) {
-		var numbers = Arrays.asList(3,4,-5,7,1,2,8,9,61,7);
+		var numbers = Arrays.asList(3,4,-5,7,1,2,8,9,6,7);
 		
 		var secondMax = numbers.stream()
 			.distinct()
