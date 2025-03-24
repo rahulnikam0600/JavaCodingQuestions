@@ -5,7 +5,7 @@ package com.ex.pattern;
 public class Diamand {
 
 	public static void main(String[] args) {
-		int n = 5;
+		int n = 7;
 		int star = -1;
 		for(int i = 0; i < n*2 - 1;  i++) {
 			if(i < n) {
