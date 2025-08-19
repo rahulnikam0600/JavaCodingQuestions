@@ -1,5 +1,4 @@
 package com.ex.binary_search;
-
 public class App {
 
 	public static void main(String[] args) {
